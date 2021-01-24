@@ -23,7 +23,10 @@ theme = "hyde-hyde"
     dateformat = "Jan 2, 2006"
 
     # sidebar, copyright & license
+<<<<<<< HEAD
     #logoimage = "/img/hugo.png"
+=======
+>>>>>>> 4945cbc3da4dc92b947de23708795874fc86268c
     copyright = "htr3n"
     since = 2019
     license = "CC BY-SA 4.0"
@@ -51,13 +54,19 @@ theme = "hyde-hyde"
     linkedin = "<username>"
     twitter = "<username>"
     facebook = "<username>"
+<<<<<<< HEAD
     microblog = "<username>"
+=======
+>>>>>>> 4945cbc3da4dc92b947de23708795874fc86268c
     stackoverflow = "<username>"
     telegram = "<username>"
     # orcid = "<xxxx-xxxx-xxxx-xxxx>"
     email = "your-email@example.com"
     # gravatar = "your-email@example.com"
+<<<<<<< HEAD
     # pgpkey = "<path-to-your-key-in-/static>"
+=======
+>>>>>>> 4945cbc3da4dc92b947de23708795874fc86268c
 
 ## Main Menu
 [[menu.main]]
